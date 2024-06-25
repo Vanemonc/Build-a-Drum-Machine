@@ -1,0 +1,26 @@
+.drum-pads {
+    width: 332px;
+    height: 272px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.drum-pad {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 80px;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+    box-shadow: rgb(250, 249, 249) 3px 3px 5px;
+    color:antiquewhite;
+    font-size: 25px;
+    background-color: rgb(13, 50, 56);
+    border: 1px solid black;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
